@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1627386846 source:h:\progs\doubly_linked_list\main.c
+	<stdio.h>
+	"list.h"
+	<conio.h>
+
+1627372882 h:\progs\doubly_linked_list\list.h
+
+1627386846 source:h:\progs\doubly_linked_list\list.c
+	<stdio.h>
+	"list.h"
+	"config.h"
+
+1627377751 h:\progs\doubly_linked_list\config.h
+
+1703765147 source:c:\users\hassan\onedrive\desktop\progs\doubly_linked_list1\list.c
+	<stdio.h>
+	"list.h"
+	"config.h"
+
+1703765027 c:\users\hassan\onedrive\desktop\progs\doubly_linked_list1\list.h
+
+1627374152 c:\users\hassan\onedrive\desktop\progs\doubly_linked_list1\config.h
+
+1703765147 source:c:\users\hassan\onedrive\desktop\progs\doubly_linked_list1\main.c
+	<stdio.h>
+	"list.h"
+	<conio.h>
+
+1703942590 source:c:\users\omar\onedrive - 21x\desktop\doubly_linked_list1\main.c
+	<stdio.h>
+	"list.h"
+	<conio.h>
+
+1703939757 c:\users\omar\onedrive - 21x\desktop\doubly_linked_list1\list.h
+
+1703942179 source:c:\users\omar\onedrive - 21x\desktop\doubly_linked_list1\list.c
+	<stdio.h>
+	"list.h"
+	"config.h"
+	<string.h>
+	<conio.h>
+
+1627374152 c:\users\omar\onedrive - 21x\desktop\doubly_linked_list1\config.h
+
+1704322061 source:e:\school\c\embedded systems cours\doubly_linked_list1\main.c
+	<stdio.h>
+	"list.h"
+	<conio.h>
+	<windows.h>
+
+1704322061 e:\school\c\embedded systems cours\doubly_linked_list1\list.h
+
+1704321768 source:e:\school\c\embedded systems cours\doubly_linked_list1\list.c
+	<stdio.h>
+	"list.h"
+	"config.h"
+	<string.h>
+	<conio.h>
+
+1627374152 e:\school\c\embedded systems cours\doubly_linked_list1\config.h
+
